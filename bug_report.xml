@@ -1,2 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
+   <Bug Report>
+     <Telegram nickname>DemchenkoDenys</Telegram nickname>
+     <Bug_id>....</Bug_id>
+     <Title>....</Title>
+     <Severity>....</Severity>
+     <Priority>....</Priority>
+     <Precondition>....</Precondition>
+     <STR>....</STR>
+     <AR>....</AR>
+     <ER>....</ER>
+     <Attachments>....</Attachments>
+ </Bug Report>
