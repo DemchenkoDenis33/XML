@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
- <My preferences>
-     <Favorite film>Forrest GUMP</Favorite film>
-     <Favorite series>they are very many</Favorite series>
-     <Favorite food>ribs in honey sauce</Favorite food>
-     <Favorite time of yeard>winter and summer</Favorite time of year>
-     <Country I want to visit>Germany and Switzerland</Country I want to visit>
- </My preferences>
+ <My_preferences>
+     <Favorite_film>Forrest GUMP</Favorite_film>
+     <Favorite_series>they are very many</Favorite_series>
+     <Favorite_food>ribs in honey sauce</Favorite_food>
+     <Favorite_time_of_yeard>winter and summer</Favorite_time_of_year>
+     <Country_I_want_to_visit>Germany and Switzerland</Country_I_want_to_visit>
+ </My_preferences>

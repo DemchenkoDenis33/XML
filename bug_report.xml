@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-   <Bug Report>
-     <Telegram nickname>DemchenkoDenys</Telegram nickname>
+ <Bug_Report>
+     <Telegram_nickname>DemchenkoDenys</Telegram_nickname>
      <Bug_id>....</Bug_id>
      <Title>....</Title>
      <Severity>....</Severity>
@@ -10,4 +10,5 @@
      <AR>....</AR>
      <ER>....</ER>
      <Attachments>....</Attachments>
- </Bug Report>
+ </Bug_Report>
+

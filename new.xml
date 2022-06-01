@@ -4,13 +4,13 @@
       <lastName>Demchenko</lastName>
       <age>32year</age>
      <Pets>
-       <mantis insect>2</mantis insect>
+       <mantis_insect>2</mantis_insect>
        <ants>78</ants>
-       <aquarium fish>5</aquarium fish> 
+       <aquarium_fish>5</aquarium_fish> 
       </Pets>
-      <future desired salary>
-       <at first>400$</at first>
-       <in half a year>600-700$</in half a year> 
-      </future desired salary>
+      <future_desired_salary>
+       <at_first>400$</at_first>
+       <in_half_a_year>600-700$</in_half_a_year> 
+      </future_desired_salary>
  </Person>
 
