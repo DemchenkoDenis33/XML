@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <Person>
+      <firstName>Denys</firstName>
+      <lastName>Demchenko</lastName>
+      <age>32year</age>
+     <Pets>
+       <mantis insect>2</mantis insect>
+       <ants>78</ants>
+       <aquarium fish>5</aquarium fish> 
+      </Pets>
+      <future desired salary>
+       <at first>400$</at first>
+       <in half a year>600-700$</in half a year> 
+      </future desired salary>
+ </Person>
+
